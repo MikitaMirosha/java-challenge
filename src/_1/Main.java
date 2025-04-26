@@ -10,7 +10,7 @@ Your points are not included in the array of your class's points.
 Do not forget them when calculating the average score!
 */
 
-package one;
+package _1;
 
 public class Main {
     public static void main(String[] args) {

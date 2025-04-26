@@ -33,7 +33,7 @@ Constraints:
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 */
 
-package two;
+package _2;
 
 import java.util.Arrays;
 import java.util.HashMap;
