@@ -54,6 +54,10 @@ public class Main {
             list2.next = mergeTwoLists(list1, list2.next);
             return list2;
         }
+
+        // Time complexity: O (m + n)
+        // Space complexity: O (m + n)
+        // where m and n are the lengths of the two linked lists respectively
     }
 
     public static class ListNode {
