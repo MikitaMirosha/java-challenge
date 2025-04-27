@@ -1,4 +1,6 @@
 /*
+Better than average
+
 There was a test in your class and you passed it. Congratulations!
 But you're an ambitious person. You want to know if you're better than the average student in your class.
 You receive an array with your peers' test scores. Now calculate the average and compare your score!
@@ -13,6 +15,7 @@ Do not forget them when calculating the average score!
 package _1;
 
 public class Main {
+
     public static void main(String[] args) {
         System.out.println(betterThanAverage(new int[]{2, 3}, 5));
     }
