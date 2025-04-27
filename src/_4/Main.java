@@ -40,8 +40,7 @@ public class Main {
         list2.next = new ListNode(3);
         list2.next.next = new ListNode(4);
 
-        ListNode result = mergeTwoLists(list1, list2);
-        System.out.println(result);
+        mergeTwoLists(list1, list2);
     }
 
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
